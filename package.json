@@ -18,5 +18,6 @@
   "homepage": "https://github.com/kjirou/test-apollo-client-codegen-typescript#readme",
   "devDependencies": {
     "apollo": "^2.33.2"
-  }
+  },
+  "private": true
 }

@@ -104,4 +104,4 @@ dist
 .tern-port
 
 /schema.json
-/generated-flat-schema.ts
+/src/generated-flat-schema.ts

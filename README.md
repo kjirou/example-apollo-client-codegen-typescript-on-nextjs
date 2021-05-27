@@ -1,1 +1,1 @@
-# test-apollo-client-codegen-typescript
+# learn-apollo-client-codegen-typescript-on-nextjs

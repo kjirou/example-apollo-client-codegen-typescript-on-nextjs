@@ -1,4 +1,4 @@
-import { gql } from 'dummy-apollo-client'
+import { gql } from '@apollo/client'
 
 const updateUserNameMutation = gql`
   mutation UpdateUserNameMutation($name: String!) {

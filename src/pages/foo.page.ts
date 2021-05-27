@@ -1,4 +1,4 @@
-import { gql } from 'dummy-apollo-client'
+import { gql } from '@apollo/client'
 
 const viewerQuery = gql`
   query ViewerQuery {

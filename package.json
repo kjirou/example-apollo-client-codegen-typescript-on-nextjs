@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "codegen": "apollo client:codegen --target typescript",
+    "codegen": "apollo client:codegen --target typescript --outputFlat generated-flat-schema.ts",
     "download-schema": "apollo client:download-schema"
   },
   "repository": {

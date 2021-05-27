@@ -1,5 +1,4 @@
-// `import { gql } form '@apollo/client'`
-const gql: any = () => {}
+import { gql } from 'dummy-apollo-client'
 
 const viewerQuery = gql`
   query ViewerQuery {
